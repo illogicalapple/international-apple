@@ -1,5 +1,5 @@
 # international-apple
-This is "apple" in 50 languages. (No, I didn't remember these. Google Translate is the best.)
+This is "apple" in more than 50 languages. (No, I didn't remember these. Google Translate is the best.)
 ```
 appel (Afrikaans)
 mollë (Albanian)
